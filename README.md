@@ -18,10 +18,6 @@ Algorithm:
 
 4. Finding contours of numbers on dial
 
-![alt text](https://github.com/niobeus/meters_reading/blob/main/imgs/4.png?raw=true)
 ![alt text](https://github.com/niobeus/meters_reading/blob/main/imgs/6.png?raw=true)
 
 5. Contours recognition using neural network
-
-![alt text](https://github.com/niobeus/meters_reading/blob/main/imgs/7.png?raw=true)
-
